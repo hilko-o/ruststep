@@ -21,7 +21,7 @@ pub const KEYWORDS: &[&str] = &[
     "case",
     "const_e",
     "constant",
-    "constraint",
+    //"constraint", // Used in IFC schema as variable name
     "cos",
     "derive",
     "div",
